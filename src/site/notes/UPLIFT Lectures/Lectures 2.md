@@ -1,0 +1,110 @@
+---
+{"dg-publish":true,"permalink":"/UPLIFT Lectures/Lectures 2/","dg-note-properties":{"tags":null}}
+---
+
+
+- **Тема**  Відновлення активів та міжнародна співпра #Asset_Recovery and International Cooperation
+- **Лекція 2** [https://youtu.be/IBqbVP5u86w?si=vFsBhBwwPI997Stx]()   
+- **Лекція 2 Engl**  [https://www.youtube.com/watch?v=_89wCVOAB24&list=PLvj-HKZFOQsVRx5zO5B7qqZwQmSVZRs8n&index=9]() 
+- **Презентація 2**  [https://drive.google.com/file/d/1ZY9V4fp_D6tmAVJ8P0glix9SuR2TKyMx/view?usp=sharing]() 
+- **Asset Reality**   це міжнародна компанія, яка допомагає державним органам працювати з арештованими та конфіскованими активами. Aidan Larkin
+- **слоган Asset Reality**  “Seized Assets Solved” Проблему арештованих активів вирішено
+- **estimating #illicit financial flows**  оцінювання обсягів незаконних фінансових потоків [https://www.unodc.org/documents/data-and-analysis/Studies/Illicit_financial_flows_2011_web.pdf]() 
+- **[[Asset recovery\|Asset recovery]]**  повернення (відшкодування) активів, отриманих злочинним шляхом.
+- **one of the core aims of #FATF** is to deprive criminals of their illicit assets  позбавити злочинців їхніх незаконно отриманих активів.
+- **for a while**  деякий час / протягом певного часу
+- **investigating**  it is always follow money
+- **going after the money**  it is always assets recovery
+- **проблема #ФАТФ, 2025 - 1**  at the moment , countries intercept and recover les than one per cent of global illicit financial flows
+- **Crime should not pay.**  злочин не має бути фінансово вигідним. злочин не приносить вигоди / злочин не окупається
+- **Renewed Focus on #Asset Management** Відновлена увага до управління активами - а й ефективному управлінню арештованими активами (щоб вони не знецінювалися, не зникали, не псувалися)
+-  #FATF releases detailed guidance to help practitioners recover criminal assets 
+#FATF опублікувала детальні рекомендації, щоб допомогти фахівцям повертати злочинні активи
+- #asset **recovery guidance 2025** 
+https://www.fatf-gafi.org/en/publications/Methodsandtrends/asset-recovery-guidance-best-practices-2025.html
+- #asset **recovery guidance summary**
+https://www.assetreality.com/posts/summary-of-fatf-40-november-2025-updates
+- **проблема #ФАТФ, 2025 -2** more than 80% of jurisdictions are operating at low or moderate levels of effectiveness in asset recovery.
+- **problem #FATF -2**  «Понад 80% юрисдикцій працюють на низькому або середньому рівні ефективності у сфері повернення активів»
+- **Project A.S.S.E.T**  Project A.S.S.E.T ( #Asset Search & #Seize Enforcement Taskforce) Цільова група з пошуку та вилучення активів. це міжнародна правоохоронна ініціатива, спрямована на пошук, виявлення, заморожування та конфіскацію активів, отриманих злочинним шляхом
+- **like a dog grabbing a car**  grab -ловить, хватать. 
+- like a dog chasing a car #idiom безглузду/неможливу дію: як собака, що женеться за машиною
+- #seize конфіскувати
+- **the big issue** before to seize assets you need to demonstrate pre-seize plan
+- **vessel** судно
+- **acquitted** оправданный; освобождённый (от ответственности, обязательства); признанный невиновным (в совершении преступления)
+- to #seize #assets вилучити активи
+- **enhance** покращувати, посилювати, підвищувати, зміцнювати
+- **Enhancing #asset recovery efforts** Посилення зусиль з повернення активів
+- **taskforce** оперативна групa
+- **Enforcement** примусове виконання закону або рішення суду. 
+- **Seize Enforcement** процес, коли органи влади або судові служби забезпечують фізичне або юридичне вилучення активів,
+- **Red Notice** розшук злочинця або підозрюваного по всьому світу (Інтерпол)
+- **Silver Notice**  це новий інструмент INTERPOL, який дозволяє країнам:
+-отримувати міжнародні повідомлення про місцезнаходження незаконних активів,
+-відстежувати та виявляти їх по всьому світу,
+-координувати дії правоохоронних органів для подальшого заморожування, вилучення або повернення цих коштів.
+https://www.interpol.int/en/Resources/INTERPOL-Spotlight/Spotlight-Issue-1-Organized-Crime/Innovation-Silver-Notice
+- **stakeholders** стейкхолдери, зацікавлені сторони
+- **FATF guidance elevates asset management as core to effective confiscation** —  Керівництво FATF підкреслює, що управління активами є ключовим елементом для ефективної конфіскації
+- **Covers pre-seizure, interim, and post-confiscation management** Охоплює управління активами на етапах до вилучення, під час тимчасового утримання та після конфіскації.
+- **Pre-seizure management** правління активами до їх вилучення, щоб підготувати їх до конфіскації та запобігти їхньому прихованню або знищенню.
+- **Interim management** тимчасове управління під час арешту або заморожування активів, щоб вони зберігали цінність і були доступні для подальшої конфіскації.
+- **Post-confiscation management** управління після конфіскації, включно з продажем, передачею державі або використанням у законних цілях.
+- **Pre-confiscation sale explicitly recognised to preserve value** — Продаж активів до конфіскації прямо визнаний як спосіб зберегти їхню вартість.
+- **accountability** подотчётность и ответственность
+- **Depreciating Assets Sale Order Bill on Carribian** законопроєкт про «Продаж активів, що швидко знецінюються». Карибські острова
+- **Depreciating Assets** активи, які швидко втрачають свою вартість з часом (наприклад, техніка, транспорт, товари, нерухомість, що швидко старіє).
+- **Permitted to avoid depreciation or high costs**  Дозволено для уникнення знецінення або високих витрат.
+- **Applicable to perishable, volatile, or costly-to-hold assets** Applicable to perishable, volatile, or costly-to-hold assets Застосовується до швидкопсувних, нестійких або дорогих у зберіганні активів.
+- **Perishable assets** швидкопсувні активи (товари або ресурси, які швидко псуються, наприклад, продукти або деякі матеріали).
+- **Volatile assets** нестійкі або мінливі активи (які швидко змінюють свою ринкову вартість, наприклад, криптовалюта чи акції).
+- **Costly-to-hold assets** активи, утримання яких пов’язане з високими витратами (наприклад, техніка, нерухомість, транспорт
+- **Proceeds returned if confiscation not finalized** Кошти повертаються, якщо конфіскація не була завершена
+- **Proceeds** дохід, виручка, надходження
+- **The Asset Recovery Process** Процес відновлення активів - це процес повернення активів, отриманих злочинним шляхом, у законне володіння держави чи постраждалої сторони
+- **Identification of Criminal Assets** Step1, the asset recovery process
+- **International Cooperation** Step2, the asset recovery process
+- **Seizure** вилучення, конфіскація, арешт майна або активів Step3, the asset recovery process
+- **Freezing** Step 4, the asset recovery process
+- **Confiscation** Step 5, the asset recovery process
+- **Victim Compensation** Step 6, the asset recovery process
+- **Asset Sharing**  спільне користування активами. процес розподілу конфіскованих або повернутих активів між державами, правоохоронними органами або постраждалими. Step 7, the asset recovery process
+- **Asset Re-use** перенаправлення конфіскованих чи вилучених активів на нові законні цілі Step 7, the asset recovery process
+- **ARIN** Asset Recovery Interagency Network (ARIN)
+- **Tether**  new asset tokenisation platform
+- **intangible**  неосязаемый
+- **economic assessment**  экономическая оценка
+- **UBO**  Ultimate Beneficial Owner, кінцевий бенефіціарний власник,
+- **no conviction** «немає судимості» або «немає переконаності
+- **Offense**   правопорушення, злочин
+- **criminal conviction**  кримінальний злочин
+- **tax conviction**  cудимість за податковий злочин
+- **burden of proof**  тягар доказування, тобто обов’язок однієї зі сторін у справі довести свої твердження фактами або доказами.
+- **allege**   стверджувати або заявляти щось без офіційного підтвердження чи доказів.
+- **onus**   тягар, обов’язок або відповідальність за щось, часто у юридичному чи офіційному контексті.
+- **Warehouse**  це склад, сховище для зберігання товарів, матеріалів або продукції.
+- **inherit**  це отримувати щось у спадок або успадковувати
+- **Accountability** відповідальність за свої дії, обов’язок звітувати або пояснювати свої рішення.
+- **Entire team**   означає вся команда або усі члени команди разом.
+- **grab it**  схопити! This is a great deal — grab it while you can! Це чудова пропозиція — скористайся нею, поки можеш! I grabbed my coat and ran out.
+- **Enforcement**   це забезпечення виконання закону, правила або рішення; процес примушення до дотримання.
+- **it was made up by somebody**   Це було вигадано кимось» або Хтось це придумав
+- **traceable on blockcnain**  повністю відстежується на блокчейні.
+- **public ledger**  публічний реєстр, у якому зберігаються записи про всі транзакції або операції, доступні для перевірки будь-ким.
+- **Mutual Legal Assistance (MLA) Request**  це запит про взаємну правову допомогу між державами.
+- **seed phrases**   це набір слів, які використовуються для відновлення криптовалютного гаманця.
+- **Robust**  це міцний, надійний, стійкий або сильни
+- **lots of liabilities**   багато зобов’язань або боргів.
+- **fortfeited**  означає втрачений, конфіскований або позбавлений чогось через порушення правил чи закону
+- **forfeited asserts**  активи, які були конфісковані або втрачено через порушення закону або правових зобов’язань
+- **So, surfface to say**  «достатньо сказати або можна просто сказати Синоніми / альтернативи In short — «коротко кажучи» In summary  «підсумовуючи» It’s safe to say  «можна сказати напевно»
+- **Effective Asset Management is the core of a virtuous cycle of Asset Recovery**  ефективне управління активами є серцем (основою) позитивного циклу відновлення активів
+- **Crypto Mixers (також tumblers)**  сервіс або програма, яка змішує криптовалюту різних користувачів, щоб замаскувати джерело коштів.
+- **Monero**  Monero (XMR)  це криптовалюта, орієнтована на анонімність та конфіденційність транзакцій. На відміну від Bitcoin або USDT, де транзакції відстежуються у публічному блокчейні, Monero приховує суму, відправника та отримувача
+- **sayari** опен-сорс це платформа для аналізу корпоративних даних, ризиків, власності компаній і торговельних мереж, яку використовують, зокрема, для розслідувань, боротьби з відмиванням грошей, дотримання правил та оцінки ризиків у глобальній економіці.
+- **TRM labs** це компанія й платформа для аналізу блокчейну й боротьби з криптовалютними злочинами, яку використовують фінансові установи, криптобізнеси та правоохоронні органи по всьому світу
+- **Custody** це зберігання або опіка над активами, майном чи коштами від імені власника, часто в фінансовому або юридичному контексті.
+- **[[tackling illicit finance\|tackling illicit finance]]** боротьба з незаконними фінансовими потоками
+- **Question**   In terms of the improvement of the system, if there are any one thing that you would consider improving the success rate could be higher and we will have better results?  at the moment , countries intercept and recover less than one per cent 1% of global illicit financial flows. Ihnatenko asked. 54min
+- **Answer**  Accountability, there is a lack of accountability and when we do not perform an asset recovery. Aidan Larkin
